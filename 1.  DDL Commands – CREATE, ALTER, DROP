@@ -1,0 +1,10 @@
+Description:
+
+Data Definition Language (DDL) statements are used to define the database structure or schema.
+
+DDL Commands: Create, Alter, Drop, Rename, Truncate
+• CREATE - to create objects in the database
+•	ALTER - alters the structure of the database
+• DROP - delete objects from the database
+•	TRUNCATE - remove all records from a table, including all spaces allocated for the records are removed
+•	RENAME - rename an object
